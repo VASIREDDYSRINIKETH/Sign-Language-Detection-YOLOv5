@@ -15,14 +15,13 @@ YOLOv5 Integration: Powered by a pre-trained or custom-trained YOLOv5 model for 
 
 Modular Design: Organized project structure for clarity and maintainability.
 
-🎥 Demo
-## Demo Video
+## 🎥 Demo
 
-[![Sign Language Detection Demo](https://drive.google.com/file/d/1jS3phNoqFMT2QoiqX-lX_PUZ2155heCi/view?usp=sharing)
+Watch a quick demonstration of the project in action:
 
-*Click the image above to watch the demo!*
+[Sign Language Detection Demo Video on Google Drive](https://drive.google.com/file/d/1jS3phNoqFMT2QoiqX-lX_PUZ2155heCi/view?usp=sharing)
 
----
+*Click the link above to watch the demo video!*
 
 📂 Project Structure
 .
